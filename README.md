@@ -12,7 +12,7 @@
 In the project directory, you can run:
 
 ### `npm start` but first install all the dependencies with `npm install` 
-### for this small project i only use the ones comes when you create your React app
+### for this small project i only use the ones that comes when you create your React app
 
 Runs the app in the development mode.\
 Open [http://localhost:3000]
